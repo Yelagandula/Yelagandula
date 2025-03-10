@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vineeth Yelagandula</h1>
 <h3 align="center">A Passionate Full Stack Engineer</h3>
 
+[![Matrix SVG](https://github.com/abhishektripathi66/AbhishekTripathi/blob/main/matrix.svg)(#)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yelagandula&label=Profile%20views&color=0e75b6&style=flat" alt="yelagandula" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yelagandula" alt="yelagandula" /></a> </p>
