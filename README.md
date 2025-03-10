@@ -14,7 +14,6 @@
 - 💬 Ask me about **Java, SpringBoot, React, TypeScript, Node.js, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **Vineethyelagandula2001@gmail.com**
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks+For+Reading!&width=1000&height=270)](https://github.com/Akshay090/svg-banners)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelagandula&show_icons=true&locale=en&layout=compact" alt="yelagandula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelagandula&show_icons=true&locale=en" alt="yelagandula" /></p>
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks+For+Reading!&width=1000&height=270)](https://github.com/Akshay090/svg-banners)
+
